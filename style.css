@@ -34,7 +34,7 @@ body{
 }
 
 button{
-    background-color: #017143;
+    background-color: #d80808;
     color: #ffffff;
     border: none;
     padding: 10px;
@@ -47,7 +47,7 @@ h2{
 }
 
 span{
-    color: #017143;
+    color: #df2d2d;
     font-size: 70px;
     font-weight: 700;
 }
@@ -80,6 +80,10 @@ p{
 .menu{
     display: flex;
     justify-content: center;
+}
+
+.menu img{
+    width: 90px;
 }
 
 .copo-pequeno{
